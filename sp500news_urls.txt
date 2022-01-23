@@ -139,7 +139,7 @@ https://www.investing.com/equities/d.r.-horton-inc-news
 https://www.investing.com/equities/danaher-corp-news
 https://www.investing.com/equities/dardem-rest-news
 https://www.investing.com/equities/davita-inc-news
-https://www.investing.com/indices/germany-30-news
+https://www.investing.com/equities/deere---co-news
 https://www.investing.com/equities/delta-air-lines-new-news
 https://www.investing.com/equities/dentsply-intl-inc-new-news
 https://www.investing.com/equities/devon-energy-news
@@ -155,7 +155,7 @@ https://www.investing.com/equities/dollar-tree-inc-news
 https://www.investing.com/equities/dominion-res-news
 https://www.investing.com/equities/dominos-pizza-inc-news
 https://www.investing.com/equities/dover-corp-news
-https://www.investing.com/indices/us-30-news
+https://www.investing.com/equities/dow-chemical-news
 https://www.investing.com/equities/dte-energy-news
 https://www.investing.com/equities/duke-energy-news
 https://www.investing.com/equities/duke-realty-corp-news
@@ -338,7 +338,7 @@ https://www.investing.com/equities/news-corporation-news
 https://www.investing.com/equities/nextera-energy-inc-news
 https://www.investing.com/equities/nielsen-holdings-nv-news
 https://www.investing.com/equities/nike-news
-https://www.investing.com/indices/japan-ni225-news
+https://www.investing.com/equities/ni-source-inc-news
 https://www.investing.com/equities/norfolk-southern-news
 https://www.investing.com/equities/northern-trust-news
 https://www.investing.com/equities/northrop-grumman-news
