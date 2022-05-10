@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 alpha_vantage.py
-full_articles2.txt
+full_article2.txt
 daily_prices.csv
+lda_df.csv
+tfidf_df.csv
