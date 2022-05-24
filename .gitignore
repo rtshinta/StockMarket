@@ -133,3 +133,4 @@ full_article2.txt
 daily_prices.csv
 lda_df.csv
 tfidf_df.csv
+bert_df.csv
