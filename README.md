@@ -11,3 +11,5 @@
 # LDA in lda_sentiment.ipynb
 
 # BERT in bert.ipynb  
+
+# Webscraper for articles/article titles in web_scrape_news.ipynb
