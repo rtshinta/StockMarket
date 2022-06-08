@@ -4,7 +4,7 @@
 
 ---
 
-# Sentiment Analysis Stock Price Prediction of Article Titles in sentiment_analysis.ipynb  
+# Sentiment Analysis (TF-IDF) Stock Price Prediction of Article Titles in sentiment_analysis.ipynb  
 
 ---
 
