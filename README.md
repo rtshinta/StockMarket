@@ -4,7 +4,7 @@
 
 ---
 
-# Sentiment Analysis Stock Price Prediction in sentiment_analysis.ipynb  
+# Sentiment Analysis Stock Price Prediction of Article Titles in sentiment_analysis.ipynb  
 
 ---
 
