@@ -128,9 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-alpha_vantage.py
-full_article2.txt
-daily_prices.csv
-lda_df.csv
-tfidf_df.csv
-bert_df.csv
+/src/alpha_vantage.py
+/data/full_article2.txt
+/data/daily_prices.csv
+/data/lda_df.csv
+/data/tfidf_df.csv
+/data/bert_df.csv
